@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inference and Learning for Joint Semantic | </title>
+    <link>https://minahenein.github.io/authors/inference-and-learning-for-joint-semantic/</link>
+      <atom:link href="https://minahenein.github.io/authors/inference-and-learning-for-joint-semantic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Inference and Learning for Joint Semantic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 May 2018 15:47:37 +1100</lastBuildDate>
+    <image>
+      <url>https://minahenein.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Inference and Learning for Joint Semantic</title>
+      <link>https://minahenein.github.io/authors/inference-and-learning-for-joint-semantic/</link>
+    </image>
+    
+    <item>
+      <title>Exploiting Rigid Body Motion for SLAM in Dynamic Environments</title>
+      <link>https://minahenein.github.io/publication/henein18icra_workshop/</link>
+      <pubDate>Sun, 20 May 2018 15:47:37 +1100</pubDate>
+      <guid>https://minahenein.github.io/publication/henein18icra_workshop/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
