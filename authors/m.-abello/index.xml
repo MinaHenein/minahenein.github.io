@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Abello | Mina Henein&#39;s website</title>
+    <link>https://minahenein.github.io/authors/m.-abello/</link>
+      <atom:link href="https://minahenein.github.io/authors/m.-abello/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Abello</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Sep 2017 16:15:27 +1100</lastBuildDate>
+    <image>
+      <url>https://minahenein.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Abello</title>
+      <link>https://minahenein.github.io/authors/m.-abello/</link>
+    </image>
+    
+    <item>
+      <title>Exploring The Effect of Meta-Structural Information on the Global Consistency of SLAM</title>
+      <link>https://minahenein.github.io/publication/henein17iros/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/publication/henein17iros/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

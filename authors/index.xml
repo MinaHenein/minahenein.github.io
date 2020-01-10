@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Mina Henein&#39;s website</title>
+    <link>https://minahenein.github.io/authors/</link>
+      <atom:link href="https://minahenein.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Jan 2020 12:50:34 +1100</lastBuildDate>
+    <image>
+      <url>https://minahenein.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://minahenein.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Mina Henein</title>
+      <link>https://minahenein.github.io/authors/mina-henein/</link>
+      <pubDate>Fri, 10 Jan 2020 12:50:34 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/mina-henein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017</title>
+      <link>https://minahenein.github.io/authors/2017/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BC</title>
+      <link>https://minahenein.github.io/authors/bc/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/bc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Canada</title>
+      <link>https://minahenein.github.io/authors/canada/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/canada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Abello</title>
+      <link>https://minahenein.github.io/authors/m.-abello/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/m.-abello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Henein</title>
+      <link>https://minahenein.github.io/authors/m.-henein/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/m.-henein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Ila and R. Mahony &lt;br&gt; 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) &lt;br&gt; September 24–28</title>
+      <link>https://minahenein.github.io/authors/v.-ila-and-r.-mahony-br-2017-ieee/rsj-international-conference-on-intelligent-robots-and-systems-iros-br-september-2428/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/v.-ila-and-r.-mahony-br-2017-ieee/rsj-international-conference-on-intelligent-robots-and-systems-iros-br-september-2428/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver</title>
+      <link>https://minahenein.github.io/authors/vancouver/</link>
+      <pubDate>Sat, 09 Sep 2017 16:15:27 +1100</pubDate>
+      <guid>https://minahenein.github.io/authors/vancouver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://minahenein.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://minahenein.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Mina Henein is a PhD candidate at the Australian National University, and the Australian Centre of Excellence for Robotic Vision working on SLAM in dynamic environments under the supervision of Dr. Viorela Ila, Prof. Robert Mahony and Prof. Hongdong Li. His research interests include graph-based SLAM, dynamic SLAM and object SLAM besides kinematics and optimization techniques.&lt;/p&gt;
+&lt;p&gt;Mina received his B.Sc. in Engineering and Materials Science majoring in Mechatronics from the German University in Cairo (GUC), Egypt in 2012. He then worked in the business sector for a multinational FMCG for one year as a Near-East demand manager before pursuing his masters in Advanced Robotics. He received a double M.Sc. degree; European Masters on Advanced Robotics (EMARo) from Università degli Studi di Genova, Italy and Ecole Centrale de Nantes, France. Throughout his career, he worked as a visiting research assistant at the Italian Institute of Technology (IIT) under the supervision of Roy Featherstone and at the Autonomous Systems Lab (ASL) at ETH Zurich under the supervision of Peter Fankhauser, Marco Hutter and Roland Siegwart where he carried out his masters thesis.
+His current research focuses on extending classical SLAM approaches to include structure and dynamics of the environment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
